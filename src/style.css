@@ -1,0 +1,16 @@
+.container{
+  width: 400px;
+  margin: 0 auto;
+  padding: 10px;
+}
+.input{
+  width: 300px;
+  margin-right: 10px;
+}
+.list{
+  margin-top: 20px;
+  width: 300px;
+}
+.ant-list .ant-btn-primary{
+  float: right !important;
+}
